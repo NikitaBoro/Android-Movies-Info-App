@@ -29,10 +29,9 @@ Ensure you have the following installed:
 2. Create a `local.properties` file in the root directory with the following content:
     ```properties
     TMDB_API_KEY=tmdb_key
-    YOUTUBE_API_KEY=youtube_key
     ```
 
-3. Ensure you replace `tmdb_key` and `youtube_key` with your actual TMDB and YouTube API keys.
+3. Ensure you replace `tmdb_key` with your actual TMDB and key.
 
 ## Usage 📖
 
