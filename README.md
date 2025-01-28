@@ -15,7 +15,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/dorontayar/Android-Movies-Info-App.git
+    git clone https://github.com/NikitaBoro/Android-Movies-Info-App.git
     cd Android-Movies-Info-App
     ```
 
